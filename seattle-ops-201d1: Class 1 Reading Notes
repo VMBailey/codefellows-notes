@@ -1,0 +1,8 @@
+How to use System Restore in Windows
+
+The Windows System Restore tool allows the user to revert to a specific restore point. 
+Restore points are previous software, registry, and driver configurations that Windows saves over time. So when you're troubleshooting an issue, restoring Windows back to a previous state can potentially help solve your problem entirely or help to isolate the true problem. 
+If the system restore feature has been enabled, Windows will create restore points after major junctures automatically. 
+These restore points will not affect personal files such as documents or pictures, so do not expect this to be the saving grace for lost files.
+
+This feature is going to come in handy while we’re working with our labs PCs. Given the kind of work we’ll be doing, something is bound to go wrong eventually. So having a tool like System Restore is great for bringing Windows back to a stable state before the explosion!
